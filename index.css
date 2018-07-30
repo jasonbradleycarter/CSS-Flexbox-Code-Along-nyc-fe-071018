@@ -11,7 +11,7 @@ header {
 }
 
 main {
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
   display: flex;
   background-color: white;
   width: 100%;
