@@ -40,3 +40,8 @@ footer {
   background-color: #fcf2ec;
 }
 
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
+
